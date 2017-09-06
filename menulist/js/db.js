@@ -28,3 +28,18 @@ const banco=[
     'cidade':'Carboneira'
   }
 ]
+
+const menu=[
+  {
+    'opcao':'Telefones',
+    'url':'telefones.html'
+  },
+  {
+    'opcao':'Celulares',
+    'url':'celulares.html'
+  },
+  {
+    'opcao':'Emails',
+    'url':'emails.html'
+  },
+]
